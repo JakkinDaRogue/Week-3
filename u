@@ -1,0 +1,2 @@
+EVT_BUTTON(self, ID, self.Click)
+self.Bind(wx.EVT_BUTTON, self.OnButton)
